@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gabot/static/css/main.dac64be9.css",
+    "main.js": "/gabot/static/js/main.786bb0fb.js",
+    "static/js/787.fa9b8d3c.chunk.js": "/gabot/static/js/787.fa9b8d3c.chunk.js",
+    "static/media/SpaceMono-Regular.ttf": "/gabot/static/media/SpaceMono-Regular.f6e015c36df6af8b01db.ttf",
+    "static/media/SpaceMono-Bold.ttf": "/gabot/static/media/SpaceMono-Bold.d33eb6c61ff51529b15c.ttf",
+    "index.html": "/gabot/index.html",
+    "main.dac64be9.css.map": "/gabot/static/css/main.dac64be9.css.map",
+    "main.786bb0fb.js.map": "/gabot/static/js/main.786bb0fb.js.map",
+    "787.fa9b8d3c.chunk.js.map": "/gabot/static/js/787.fa9b8d3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac64be9.css",
+    "static/js/main.786bb0fb.js"
+  ]
+}
